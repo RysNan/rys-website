@@ -112,8 +112,8 @@
             <div class="contact-container">
                 <div class="contact-info">
                     <h3>Contact Information</h3>
-                    <p><i class="fas fa-envelope"></i> your.email@example.com</p>
-                    <p><i class="fas fa-phone"></i> +123 456 7890</p>
+                    <p><i class="fas fa-envelope"></i> rys,nando@gmail.com </p>
+                    <p><i class="fas fa-phone"></i> 085334887415 </p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-github"></i></a>
                         <a href="#"><i class="fab fa-linkedin"></i></a>
@@ -134,7 +134,7 @@
     
     <footer>
         <div class="container">
-            <p>&copy; 2023 RYS Portfolio. All rights reserved.</p>
+            <p>&copy; 2025 RYS Portfolio. All rights reserved.</p>
             <a href="#top" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
         </div>
     </footer>
